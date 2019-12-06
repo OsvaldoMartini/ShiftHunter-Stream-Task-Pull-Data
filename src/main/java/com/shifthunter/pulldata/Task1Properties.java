@@ -2,7 +2,7 @@ package com.shifthunter.pulldata;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties("task1")
+@ConfigurationProperties("pulldata-task")
 public class Task1Properties {
 	
 	/**

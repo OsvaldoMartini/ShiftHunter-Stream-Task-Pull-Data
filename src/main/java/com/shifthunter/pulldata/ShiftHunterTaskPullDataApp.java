@@ -40,7 +40,7 @@ public class ShiftHunterTaskPullDataApp {
 				throw new Exception("I'm ANGRY");
 			}
 			
-			System.out.println("task 1 complete!");
+			System.out.println("pulldata-task complete!");
 			
 		}
 	}
